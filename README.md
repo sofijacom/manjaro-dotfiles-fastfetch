@@ -8,7 +8,7 @@
 ---
 
 ```
- git clone  ~/.config/fastfetch
+ git clone https://github.com/sofijacom/manjaro-dotfiles-fastfetch.git ~/.config/fastfetch
 ```
 
 > [!NOTE]
