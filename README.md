@@ -1,7 +1,8 @@
 # manjaro-dotfiles-fastfetch
 
-<img width="750" height="421" alt="Снимок экрана_20251101_235646" src="https://github.com/user-attachments/assets/cf5c25a2-f0a5-4384-972d-95d3b5074666" />
+<img width="750" height="422" alt="Снимок экрана_20251102_032729" src="https://github.com/user-attachments/assets/74b860ab-892b-4a50-aaec-3d16e9b672c5" />
 
+<img width="750" height="422" alt="Снимок экрана_20251127_091718" src="https://github.com/user-attachments/assets/461163c4-47fc-4037-938a-3bfbcd3e9351" />
 
 
 <a id="installation"></a>  
