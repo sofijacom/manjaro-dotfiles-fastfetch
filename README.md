@@ -4,6 +4,10 @@
 
 <img width="750" height="422" alt="Снимок экрана_20251127_091718" src="https://github.com/user-attachments/assets/461163c4-47fc-4037-938a-3bfbcd3e9351" />
 
+## ASCII
+
+<img width="740" height="429" alt="Снимок экрана_20260504_070957" src="https://github.com/user-attachments/assets/1b2662b6-1352-4083-a272-e4906b946050" />
+
 
 <a id="installation"></a>  
 <img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>
